@@ -1,0 +1,41 @@
+html{
+  background-color: rgb(91, 113, 136);
+}
+.App {  
+  text-align: center;    
+}
+
+input,button{
+  font-size: large;
+  margin-top: 10px;
+  border: 1px solid rgb(34, 21, 21);
+  border-radius: 15px;
+  padding: 10px 15px;
+  width: 35%;
+  overflow: hidden;
+}
+
+label{
+  width: max-content;
+  border-radius: 10px;
+  padding: 20px 37px;
+  text-decoration: underline;
+  color: beige;
+ }
+ .helpbox{
+   padding-top: 20px ;
+ }
+
+button{
+  width: 30%;
+  text-transform: uppercase;
+  background-color: rgb(107, 148, 129);
+}
+
+h1{
+  color: #f0cfcf;
+}
+
+.icons{
+  float: inherit;
+}
